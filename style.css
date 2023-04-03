@@ -1,0 +1,56 @@
+#background {
+  background-color: white;
+  z-index: 0;
+  width: 100vw;
+  height: 100vh;
+  position:absolute;
+  margin-top: 0px; 
+  margin-bottom: 0px; 
+  margin-left: 0px; 
+  margin-right: 0px;
+  padding: 0;
+}
+
+#primary {
+  margin-top: 0px; 
+  margin-bottom: 0px; 
+  margin-left: 0px; 
+  margin-right: 0px;
+  padding: 0;
+}
+
+#button {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  z-index: 20;
+}
+
+#moj{
+  margin: 0;
+  float: left;
+  position: relative;
+  margin:2px;
+  z-index: 5;
+}
+.alignnone{
+  width:225px;
+  height:300px;
+}
+
+.wp-image-5{
+  background: white;
+}
+.wp-image-6{
+  background: white;
+}
+.wp-image-7{
+  background: white;
+}
+.wp-image-8{
+  background: white;
+}
+.wp-image-9{
+  background: white;
+}
+.wp-image-10{
+  background: white;
+}
